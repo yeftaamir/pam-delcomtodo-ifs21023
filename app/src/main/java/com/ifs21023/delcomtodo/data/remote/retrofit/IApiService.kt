@@ -1,9 +1,9 @@
 package com.ifs21023.delcomtodo.data.remote.retrofit
 
+import com.ifs18005.delcomtodo.data.remote.response.DelcomTodoResponse
 import com.ifs21023.delcomtodo.data.remote.response.DelcomAddTodoResponse
 import com.ifs21023.delcomtodo.data.remote.response.DelcomLoginResponse
 import com.ifs21023.delcomtodo.data.remote.response.DelcomResponse
-import com.ifs21023.delcomtodo.data.remote.response.DelcomTodoResponse
 import com.ifs21023.delcomtodo.data.remote.response.DelcomTodosResponse
 import com.ifs21023.delcomtodo.data.remote.response.DelcomUserResponse
 import retrofit2.http.DELETE

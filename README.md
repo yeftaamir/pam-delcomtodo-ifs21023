@@ -5,3 +5,4 @@
 ## Change Log
 
 - [08/04/2024] Membuat login, register, main dan profile activity
+- [08/04/2024] Sudah mencoba login
