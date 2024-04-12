@@ -1,6 +1,6 @@
 package com.ifs21023.delcomtodo.data.remote.retrofit
 
-import com.ifs18005.delcomtodo.data.remote.response.DelcomTodoResponse
+import com.ifs21023.delcomtodo.data.remote.response.DelcomTodoResponse
 import com.ifs21023.delcomtodo.data.remote.response.DelcomAddTodoResponse
 import com.ifs21023.delcomtodo.data.remote.response.DelcomLoginResponse
 import com.ifs21023.delcomtodo.data.remote.response.DelcomResponse
